@@ -1,6 +1,10 @@
 <h1 align+"center"> d0se4world - DDOS Soup Broth</h1>
 <en><h5 align="center"> Using Python </h5></en>
-<p align="center">Please Don't Attack websites without the owner's consent.</p>  
+<div style="display:flex;align-items:center;justify-content:center;padding:12px;">
+  <p style="max-width:800px;text-align:center;font-weight:600;background:#fff8e1;border:1px solid #ffd54f;padding:10px;border-radius:8px;">
+    Please do <strong>NOT</strong> use this tool to attack government or other websites. Misuse is illegal you are responsible for your actions.
+  </p>
+</div>
 
 ## Getting Started
 
