@@ -75,10 +75,7 @@
    * 🔪 KILLER | Run many threads to kill a target
    * 🧅 TOR | Bypass onion website
 
-* ⚙️ Tools - Runs With 
-`
-python3 start.py tools
-`
+* ⚙️ Tools  
   * 🌟 CFIP | Find Real IP Address Of Websites Powered By Cloudflare
   * 🔪 DNS | Show DNS Records Of Sites
   * 📍  TSSRV | TeamSpeak SRV Resolver
